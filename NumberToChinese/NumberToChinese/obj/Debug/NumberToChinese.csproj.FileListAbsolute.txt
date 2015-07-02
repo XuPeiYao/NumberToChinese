@@ -1,0 +1,12 @@
+c:\users\xupeiyao\documents\visual studio 2015\Projects\NumberToChinese\NumberToChinese\bin\Debug\NumberToChinese.exe.config
+c:\users\xupeiyao\documents\visual studio 2015\Projects\NumberToChinese\NumberToChinese\bin\Debug\NumberToChinese.exe
+c:\users\xupeiyao\documents\visual studio 2015\Projects\NumberToChinese\NumberToChinese\bin\Debug\NumberToChinese.pdb
+c:\users\xupeiyao\documents\visual studio 2015\Projects\NumberToChinese\NumberToChinese\obj\Debug\NumberToChinese.csprojResolveAssemblyReference.cache
+c:\users\xupeiyao\documents\visual studio 2015\Projects\NumberToChinese\NumberToChinese\obj\Debug\NumberToChinese.exe
+c:\users\xupeiyao\documents\visual studio 2015\Projects\NumberToChinese\NumberToChinese\obj\Debug\NumberToChinese.pdb
+D:\NumberToChinese\NumberToChinese\bin\Debug\NumberToChinese.exe.config
+D:\NumberToChinese\NumberToChinese\obj\Debug\NumberToChinese.exe
+D:\NumberToChinese\NumberToChinese\obj\Debug\NumberToChinese.pdb
+D:\NumberToChinese\NumberToChinese\obj\Debug\NumberToChinese.csprojResolveAssemblyReference.cache
+D:\NumberToChinese\NumberToChinese\bin\Debug\NumberToChinese.exe
+D:\NumberToChinese\NumberToChinese\bin\Debug\NumberToChinese.pdb

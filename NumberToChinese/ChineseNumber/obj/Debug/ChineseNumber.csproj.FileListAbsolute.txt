@@ -1,0 +1,28 @@
+C:\Users\XuPeiYao\documents\visual studio 2015\Projects\NumberToChinese\ChineseNumber\bin\Debug\ChineseNumber.exe.config
+C:\Users\XuPeiYao\documents\visual studio 2015\Projects\NumberToChinese\ChineseNumber\bin\Debug\ChineseNumber.exe
+C:\Users\XuPeiYao\documents\visual studio 2015\Projects\NumberToChinese\ChineseNumber\bin\Debug\ChineseNumber.pdb
+C:\Users\XuPeiYao\documents\visual studio 2015\Projects\NumberToChinese\ChineseNumber\obj\Debug\ChineseNumber.csprojResolveAssemblyReference.cache
+C:\Users\XuPeiYao\documents\visual studio 2015\Projects\NumberToChinese\ChineseNumber\obj\Debug\MainWindow.g.cs
+C:\Users\XuPeiYao\documents\visual studio 2015\Projects\NumberToChinese\ChineseNumber\obj\Debug\App.g.cs
+C:\Users\XuPeiYao\documents\visual studio 2015\Projects\NumberToChinese\ChineseNumber\obj\Debug\ChineseNumber_MarkupCompile.cache
+C:\Users\XuPeiYao\documents\visual studio 2015\Projects\NumberToChinese\ChineseNumber\obj\Debug\ChineseNumber_MarkupCompile.lref
+C:\Users\XuPeiYao\documents\visual studio 2015\Projects\NumberToChinese\ChineseNumber\obj\Debug\MainWindow.baml
+C:\Users\XuPeiYao\documents\visual studio 2015\Projects\NumberToChinese\ChineseNumber\obj\Debug\ChineseNumber.g.resources
+C:\Users\XuPeiYao\documents\visual studio 2015\Projects\NumberToChinese\ChineseNumber\obj\Debug\ChineseNumber.Properties.Resources.resources
+C:\Users\XuPeiYao\documents\visual studio 2015\Projects\NumberToChinese\ChineseNumber\obj\Debug\ChineseNumber.csproj.GenerateResource.Cache
+C:\Users\XuPeiYao\documents\visual studio 2015\Projects\NumberToChinese\ChineseNumber\obj\Debug\ChineseNumber.exe
+C:\Users\XuPeiYao\documents\visual studio 2015\Projects\NumberToChinese\ChineseNumber\obj\Debug\ChineseNumber.pdb
+D:\NumberToChinese\ChineseNumber\bin\Debug\ChineseNumber.exe.config
+D:\NumberToChinese\ChineseNumber\obj\Debug\ChineseNumber.exe
+D:\NumberToChinese\ChineseNumber\obj\Debug\ChineseNumber.pdb
+D:\NumberToChinese\ChineseNumber\bin\Debug\ChineseNumber.exe
+D:\NumberToChinese\ChineseNumber\bin\Debug\ChineseNumber.pdb
+D:\NumberToChinese\ChineseNumber\obj\Debug\ChineseNumber.csprojResolveAssemblyReference.cache
+D:\NumberToChinese\ChineseNumber\obj\Debug\MainWindow.g.cs
+D:\NumberToChinese\ChineseNumber\obj\Debug\App.g.cs
+D:\NumberToChinese\ChineseNumber\obj\Debug\ChineseNumber_MarkupCompile.cache
+D:\NumberToChinese\ChineseNumber\obj\Debug\ChineseNumber_MarkupCompile.lref
+D:\NumberToChinese\ChineseNumber\obj\Debug\MainWindow.baml
+D:\NumberToChinese\ChineseNumber\obj\Debug\ChineseNumber.g.resources
+D:\NumberToChinese\ChineseNumber\obj\Debug\ChineseNumber.Properties.Resources.resources
+D:\NumberToChinese\ChineseNumber\obj\Debug\ChineseNumber.csproj.GenerateResource.Cache
